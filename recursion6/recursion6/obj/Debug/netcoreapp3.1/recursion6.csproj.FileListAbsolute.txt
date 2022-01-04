@@ -1,0 +1,13 @@
+C:\Users\Farrukh\source\repos\recursion6\recursion6\bin\Debug\netcoreapp3.1\recursion6.exe
+C:\Users\Farrukh\source\repos\recursion6\recursion6\bin\Debug\netcoreapp3.1\recursion6.deps.json
+C:\Users\Farrukh\source\repos\recursion6\recursion6\bin\Debug\netcoreapp3.1\recursion6.runtimeconfig.json
+C:\Users\Farrukh\source\repos\recursion6\recursion6\bin\Debug\netcoreapp3.1\recursion6.runtimeconfig.dev.json
+C:\Users\Farrukh\source\repos\recursion6\recursion6\bin\Debug\netcoreapp3.1\recursion6.dll
+C:\Users\Farrukh\source\repos\recursion6\recursion6\bin\Debug\netcoreapp3.1\recursion6.pdb
+C:\Users\Farrukh\source\repos\recursion6\recursion6\obj\Debug\netcoreapp3.1\recursion6.csprojAssemblyReference.cache
+C:\Users\Farrukh\source\repos\recursion6\recursion6\obj\Debug\netcoreapp3.1\recursion6.AssemblyInfoInputs.cache
+C:\Users\Farrukh\source\repos\recursion6\recursion6\obj\Debug\netcoreapp3.1\recursion6.AssemblyInfo.cs
+C:\Users\Farrukh\source\repos\recursion6\recursion6\obj\Debug\netcoreapp3.1\recursion6.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh\source\repos\recursion6\recursion6\obj\Debug\netcoreapp3.1\recursion6.dll
+C:\Users\Farrukh\source\repos\recursion6\recursion6\obj\Debug\netcoreapp3.1\recursion6.pdb
+C:\Users\Farrukh\source\repos\recursion6\recursion6\obj\Debug\netcoreapp3.1\recursion6.genruntimeconfig.cache
